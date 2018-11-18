@@ -1,0 +1,15 @@
+.banner {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/background.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+
+.bg-opaque {
+	background: rgba(0, 0, 0, 0.5);
+}
+
+#introduction {
+	background: rgba(0, 0, 0, 0);
+	padding: 1rem 2rem 1rem 2rem;
+}
